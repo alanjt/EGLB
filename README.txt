@@ -23,15 +23,4 @@ There are no landing aids. Radio was by arrangement with the aircraft factory.
 
 Just over 1 mile to the south is the Vickers BAC flight test centre at Wisley. The runway (10/28) is nearly twice as long 6200ft (1900m). Wisley airfield is also included in this package. It is based, with permission, on the FS2004 airfield by Toby Vickers. As Wisley´s original ICAO code has been reallocated, the ICAO code X2WY is used.
 
-Installation
-
-This requires Flightgear 2017 or later. 
-
-Copy the Airports, Models, NavData, Objects, Terrain directories and LICENSE and README.txt files into your local scenery directory. On my system this is called MyScenery.
-
-Add this start up option to Flightgear :-
-  --fg-scenery=C:\FlightGear\MyScenery
-  
-
-
 Alan Teeder  Ajteeder at v underscore twin dot org dot uk , with no spaces.
