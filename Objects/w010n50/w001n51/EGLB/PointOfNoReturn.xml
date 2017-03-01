@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+ <path>PointOfNoReturn.ac</path>
+
+ <animation>
+   <type>noshadow</type>
+   <object-name>runwaymarking</object-name>
+ </animation>
+
+ <animation>
+   <object-name>runwaymarking</object-name>
+   <enable-hot type="bool">false</enable-hot>
+ </animation>
+
+ <animation>
+   <type>range</type>
+   <object-name>runwaymarking</object-name>
+   <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+ </animation>
+
+</PropertyList>
