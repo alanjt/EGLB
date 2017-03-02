@@ -8,7 +8,7 @@ name "dach"
 loc 131.866 0 -26.4716
 data 4
 dach
-texture "C:/FlightGear/SceneryDev/5202/Hangar_EPSW.png"
+texture "Hangar_EPSW.png"
 crease 179.000000
 numvert 28
 -84.2805 6.56552 -11.7698
@@ -188,7 +188,7 @@ name "hangar"
 loc 131.866 0 -26.4716
 data 6
 hangar
-texture "C:/FlightGear/SceneryDev/5202/Hangar_EPSW.png"
+texture "Hangar_EPSW.png"
 crease 179.000000
 numvert 100
 -95.8116 6.57153 25.5074
@@ -846,7 +846,7 @@ name "dach"
 loc 47.9307 0 -26.4716
 data 4
 dach
-texture "C:/FlightGear/SceneryDev/5202/Hangar_EPSW.png"
+texture "Hangar_EPSW.png"
 crease 179.000000
 numvert 28
 -46.2218 7.33948 26.2529
@@ -1026,7 +1026,7 @@ name "hangar"
 loc 47.9307 0 -26.4716
 data 6
 hangar
-texture "C:/FlightGear/SceneryDev/5202/Hangar_EPSW.png"
+texture "Hangar_EPSW.png"
 crease 179.000000
 numvert 100
 -49 0 26.5
