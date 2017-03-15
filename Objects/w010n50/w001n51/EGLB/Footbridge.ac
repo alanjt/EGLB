@@ -14,7 +14,7 @@ mod_lit=0
 wall=0
 draw_disable=0
 manip_type=0
-texture "steelwork.dds"
+texture "steelwork.png"
 crease 45.000000
 numvert 248
 30 6 -1.5
